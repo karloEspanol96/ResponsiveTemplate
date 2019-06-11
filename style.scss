@@ -744,11 +744,25 @@ body {
           margin: auto;
           border-radius: 50%;
         }
+
+        a{
+          i{
+            color:  #3b5998;
+          }
+        }
       }
     }
     #team-row-2 {
       justify-content: center;
       padding: 50px 0;
+
+      a{
+
+      
+        i{
+         color:  #3b5998;
+        }
+      }
     }
   }
 
