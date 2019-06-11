@@ -382,8 +382,8 @@ body .landing .inner-landing .inner-content h3 {
 }
 
 body .landing #landing-1 {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../img/laptop.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(../img/laptop.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(./img/laptop.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(./img/laptop.jpg) no-repeat;
 }
 
 body .landing #landing-1 .inner-content {
@@ -397,8 +397,8 @@ body .landing #landing-1 h3 {
 }
 
 body .landing #landing-2 {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../img/plate.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(../img/plate.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(./img/plate.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(./img/plate.jpg) no-repeat;
 }
 
 body .landing #landing-2 .inner-content {
@@ -412,8 +412,8 @@ body .landing #landing-2 h3 {
 }
 
 body .landing #landing-3 {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../img/trolley_stop_city_evening_lighting_119292_3840x2400.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(../img/trolley_stop_city_evening_lighting_119292_3840x2400.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(./img/trolley_stop_city_evening_lighting_119292_3840x2400.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.6) rgba(0, 0, 0, 0.6)), url(./img/trolley_stop_city_evening_lighting_119292_3840x2400.jpg) no-repeat;
 }
 
 body .landing #landing-3 .inner-content {
@@ -427,7 +427,7 @@ body .landing #landing-3 h3 {
 }
 
 body .landing #landing-4 {
-  background: url(../img/computers.png) no-repeat;
+  background: url(./img/computers.png) no-repeat;
 }
 
 body .landing #landing-4 .inner-content {
