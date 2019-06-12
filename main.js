@@ -94,7 +94,8 @@ function closeSideBar(e) {
   }
 }
 
-window.sr = ScrollReveal();
+function animate(){
+  window.sr = ScrollReveal();
 
 sr.reveal("p", {
   duration: 2000
@@ -262,5 +263,14 @@ sr.reveal(".pinterest", {
   origin: "left",
   distance: "1000px"
 });
+}
 
+
+if(window.innerWidth > 600){
+  animate();
+}
+
+else{
+  console.log('Window inner width did not meet the required width')
+}
 //contact us
