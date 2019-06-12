@@ -81,7 +81,7 @@ const sidenavModal = document.getElementById("sidenav-modal");
 sidenav.addEventListener("click", openSideBar);
 function openSideBar(e) {
   if (e.target.className == "sidenav") {
-    document.getElementById("sidebar").style.width = "230px";
+    document.getElementById("sidebar").style.width = "210px";
     sidenavModal.style.display = "block";
   }
 }
